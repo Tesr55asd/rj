@@ -1,0 +1,530 @@
+* {
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    box-sizing: border-box;
+}
+
+body{
+    min-width: 1000px;
+}
+
+.menu-nav-link {
+    color: black;
+    font-size: 12px;
+    text-decoration: none;
+    padding-left: 30px;
+    text-transform: uppercase;
+}
+
+.header-fon {
+    background: url(../img/Frame.png) no-repeat center/cover;
+    text-align: center;
+    padding-bottom: 177px;
+}
+
+.header-fon .pt {
+    font-size: 12px;
+    color: #FFFFFF;
+    text-transform: uppercase;
+    padding-top: 159px;
+    padding-bottom: 10px;
+}
+
+h1 {
+    color: #FFFFFF;
+    font-size: 47px;
+    padding-bottom: 10px;
+    text-transform: uppercase;
+}
+
+.header-fon .tt {
+    font-size: 17px;
+    color: #FFFFFF;
+    text-transform: uppercase;
+    padding-bottom: 30px;
+}
+
+.header-fon .lt {
+    font-size: 12px;
+    color: #000000;
+    text-transform: uppercase;
+    background: #ffffff;
+    width: 231px;
+    text-align: center;
+    margin: auto;
+}
+
+.one {
+    padding: 123px 100px;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+}
+
+.one .rr {
+    padding-right: 250px;
+    padding-left: 250px;
+}
+
+.one h2 {
+    font-size: 28px;
+    padding-top: 16px;
+}
+
+.one .gg {
+    color: #1d1f2ebb;
+    padding-top: 21px;
+    font-size: 16px;
+}
+
+.one .hh {
+    font-size: 15px;
+    color: #A25F4B;
+    padding-top: 102px;
+  border-bottom: 2px solid #A25F4B;
+  padding-bottom: 1px;
+  width: 121px;
+  margin: auto;
+}
+
+.one .jj {
+    font-size: 12px;
+    padding-top: 100px;
+
+}
+
+.ggg {
+    display: flex;
+    text-align: center;
+    padding-left: 250px;
+    padding-right: 250px;
+}
+
+.ggg .sss {
+    width: 108%;
+}
+
+.ggg .ssd {
+    width: 100%;
+}
+
+.ggg h3 {
+    font-size: 20px;
+    padding-top: 35px;
+}
+
+.ggg h4 {
+    font-size: 20px;
+    padding-top: 35px;
+}
+
+.ggg .ff {
+    font-size: 16px;
+    color: rgba(29, 31, 46, 0.698);
+}
+
+.ggg .fg {
+    font-size: 19px;
+    color: #A25F4B;
+}
+
+.ggg .fh {
+    font-size: 16px;
+    color: #1d1f2e63;
+    text-decoration: line-through;
+}
+
+.ggg .aa {
+    font-size: 12px;
+    padding-top: 119px;
+    padding-bottom: 100px;
+}
+
+.xxx {
+    display: flex;
+    text-align: center;
+    padding-left: 250px;
+    padding-right: 250px;
+}
+
+.xxx .h6 {
+    width: 100%;
+}
+
+.xxx h6 {
+    font-size: 20px;
+    padding-top: 35px;
+}
+
+.xxx .h5 {
+    font-size: 19px;
+    color: #A25F4B;
+}
+
+.xxx .h4 {
+    font-size: 16px;
+    color: #1d1f2e63;
+    text-decoration: line-through;
+}
+
+.xxx .wwq {
+    width: 100%;
+}
+
+.xxx .www {
+    font-size: 20px;
+    padding-top: 35px;
+    color: #000000;
+}
+
+.xxx .wwe {
+    font-size: 19px;
+    color: #A25F4B;
+}
+
+.xxx .wwr {
+    font-size: 16px;
+    color: #1d1f2e63;
+    text-decoration: line-through;
+}
+
+.xxx .pi {
+    width: 100%;
+}
+
+.xxx .pp {
+    font-size: 20px;
+    padding-top: 35px;
+    color: #000000;
+}
+
+.xxx .po {
+    font-size: 16px;
+    color: #1d1f2e63;
+    text-decoration: line-through;
+}
+
+.xxx .yy {
+    width: 100%;
+}
+
+.xxx .yu {
+    font-size: 20px;
+    padding-top: 35px;
+    color: #000000;
+}
+
+.xxx .yi {
+    font-size: 16px;
+    color: #1d1f2e63;
+}
+
+.xxx .ee {
+    width: 100%;
+}
+
+.xxx .ew {
+    font-size: 20px;
+    padding-top: 35px;
+    color: #000000;
+}
+
+.xxx .eq {
+    font-size: 16px;
+    color: #1d1f2e63;
+}
+
+.xxx .kk {
+    width: 100%;
+}
+
+.xxx .kl {
+    font-size: 20px;
+    padding-top: 35px;
+    color: #000000;
+}
+
+.xxx .kj {
+    font-size: 16px;
+    color: #1d1f2e63;
+}
+
+.xxx .cc {
+    width: 100%;
+}
+
+.xxx .cx {
+    font-size: 20px;
+    padding-top: 35px;
+    color: #000000;
+}
+
+.xxx .cz {
+    font-size: 16px;
+    color: #1d1f2e63;
+}
+
+.xxx .vv {
+    width: 100%;
+}
+
+.xxx .vc {
+    font-size: 20px;
+    padding-top: 35px;
+    color: #000000;
+}
+
+.xxx .vb {
+    font-size: 16px;
+    color: #1d1f2e63;
+}
+
+.xxx .zz {
+    width: 100%;
+}
+
+.xxx .zx {
+    font-size: 20px;
+    padding-top: 35px;
+    color: #000000;
+}
+
+.xxx .zs {
+    font-size: 16px;
+    color: #1d1f2e63;
+}
+
+.xxx .xxl {
+    font-size: 12px;
+    padding-top: 165px;
+    padding-bottom: 100px;
+}
+
+.tym {
+    display: flex;
+    text-align: center;
+    padding-left: 250px;
+    padding-right: 250px;
+    padding-bottom: 130px;
+}
+
+.tym .neger {
+    width: 105%;
+}
+
+.tym .rrr {
+    width: 100%;
+    padding-left: 10px;
+}
+
+.tym .rt {
+    width: 100%;
+    padding-left: 10px;
+    padding-top: 20px;
+}
+
+.tym .fg {
+    padding-left: 80px;
+}
+
+.tym .mb {
+    font-size: 12px;
+}
+
+.tym .mn {
+    color: #000;
+    font-size: 36px;
+}
+
+.tym .ddf {
+    font-size: 16px;
+    color: rgba(29, 31, 46, 0.7);
+    padding-bottom: 25px;
+    padding-top: 15px;
+}
+
+.tym .ddg {
+    font-size: 12px;
+    color: #fff;
+    text-transform: uppercase;
+    background: #000;
+    width: 173px;
+    text-align: center;
+    margin: auto;
+}
+
+.poiuy .lg {
+    width: 100%;
+}
+
+.poiu {
+    display: flex;
+    text-align: center;
+    padding-left: 250px;
+    padding-right: 250px;
+}
+
+.poiu .lk {
+    font-size: 12px;
+    padding-top: 100px;
+    padding-bottom: 102px;
+}
+
+.poiu .cxz {
+    width: 100%;
+}
+
+.poiu .zxc {
+    font-size: 20px;
+    color: #1D1F2E;
+    padding-top: 29px;
+}
+
+.poiu .xcz {
+    font-size: 16px;
+    color: rgba(29, 31, 46, 0.7);
+    padding-top: 10px;
+    padding-bottom: 16px;
+}
+
+.poiu .gfd {
+    font-style: 12px;
+    padding-bottom: 200px;
+}
+
+.poiu .tre {
+    width: 100%;
+}
+
+.poiu .ert {
+    font-size: 20px;
+    color: #1D1F2E;
+    padding-top: 29px;
+}
+
+.poiu .ghj {
+    font-size: 16px;
+    color: rgba(29, 31, 46, 0.7);
+    padding-top: 10px;
+    padding-bottom: 16px;
+}
+
+.poiu .sdf {
+    font-style: 12px;
+    padding-bottom: 200px;
+}
+
+.poiu .mnb {
+    width: 100%;
+}
+
+.poiu .mnl {
+    font-size: 20px;
+    color: #1D1F2E;
+    padding-top: 29px;
+}
+
+.poiu .vbc {
+    font-size: 16px;
+    color: rgba(29, 31, 46, 0.7);
+    padding-top: 10px;
+    padding-bottom: 16px;
+}
+
+.poiu .vbx {
+    font-style: 12px;
+    padding-bottom: 200px;
+}
+
+.fd {
+    display: flex;
+    text-align: center;
+    background: #1D1F2E;
+    padding-top: 80px;
+    padding-bottom: 85px;
+}
+
+.fd .ggh {
+    font-size: 12px;
+    color: #fff;
+    padding-bottom: 15px;
+}
+
+.fd .fs {
+    font-size: 36px;
+    color: #fff;
+    padding-bottom: 25px;
+}
+
+.fd .hf {
+    bottom: 1px solid rgb(121, 122, 141);
+    padding: 18px 40px 18px 40px;
+    margin-right: 10px;
+}
+
+.fd .lp {
+    bottom: 1px solid red;
+    padding: 18px 25px 18px 25px;
+    background: red;
+}
+
+.le {
+    display: flex;
+    text-align: left;
+    padding-top: 103px;
+    padding-left: 250px;
+    padding-right: 250px;
+}
+
+.le .gv {
+    font-size: 20px;
+    color: #000;
+    padding-bottom: 22px;
+}
+
+.le .so {
+    font-size: 14px;
+    color: rgba(29, 31, 46, 0.700);
+    padding-bottom: 81px;
+}
+
+.le .pf {
+    font-size: 14px;
+    color: rgba(29, 31, 46, 0.300);
+    padding-bottom: 59px;
+}
+
+.le .bb {
+    font-size: 12px;
+    color: #1D1F2E;
+    padding-bottom: 22px;
+}
+
+.le .pd{
+    font-size: 14px;
+    color: rgba(29, 31, 46, 0.700);
+}
+
+.le .sb{
+    font-size: 12px;
+    color: #1D1F2E;
+    padding-bottom: 22px;
+}
+
+.le .ks{
+    font-size: 14px;
+    color: rgba(29, 31, 46, 0.700);
+    padding-bottom: 16px;
+}
+
+.le .go{
+    font-size: 23px;
+    color: #1D1F2E;
+    padding-bottom: 54px;
+}
+
+.le .pr{
+    font-size: 14px;
+    color: rgba(29, 31, 46, 0.300);
+}
